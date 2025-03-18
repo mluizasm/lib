@@ -1,0 +1,26 @@
+button{
+    border:none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer
+}
+
+button.primary{
+background-color:pink;
+}
+
+button.secundary{
+    background-color: yellow;
+}
+
+button.sm{
+    padding: 3px 6px
+}
+
+button.md{
+    padding: 6px 12px
+}
+
+button.lg{
+    padding: 9px 18px
+}
